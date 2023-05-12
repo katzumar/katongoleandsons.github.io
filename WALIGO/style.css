@@ -1,0 +1,19 @@
+* body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.before{
+    float: left;
+    width: 40%;
+    
+    padding: 0 6px;
+    
+}
+
+
+div.image-before-section img{
+    width: 50%;
+    height: auto;
+}
